@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805449668000",
+    "project_id": "globewander-6d4ec",
+    "storage_bucket": "globewander-6d4ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805449668000:android:a885a2c97a619778dc80c5",
+        "android_client_info": {
+          "package_name": "com.example.globewander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805449668000-cmq8v42i0u19hlrsgbchcb8fls7kbo6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQcK9uL_z0Af9femnPlfw-83me92I1E40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805449668000-cmq8v42i0u19hlrsgbchcb8fls7kbo6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
